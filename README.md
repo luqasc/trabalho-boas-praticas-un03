@@ -1,4 +1,4 @@
-# trabalho-boas-praticas-un03
-Identificação, classificação e priorização de dívida técnica em um Sistema de Controle de Estoque e Vendas.
+# Sistema de Controle de Estoque e Vendas
+Cadastro de estoque, venda de produtos, listagem e relatórios.
 
 [Em desenvolvimento.]
